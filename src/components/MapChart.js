@@ -1,6 +1,5 @@
 import React, { memo } from "react";
 import {
-    ZoomableGroup,
     ComposableMap,
     Geographies,
     Geography
